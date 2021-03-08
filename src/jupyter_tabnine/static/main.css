@@ -17,6 +17,7 @@
 	margin: 2px;
 	padding: 1px;
   display: list-item;
+  color: #cdd2e9;
 }
 
 .user-message span {
@@ -36,6 +37,6 @@
 
 
 .complete-dropdown-content {
-  background-color: rgb(255, 255, 255, 0.85);
+  background-color: #546386;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
 }
